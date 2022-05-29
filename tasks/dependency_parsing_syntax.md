@@ -1,6 +1,6 @@
 # Dependency parcing & Syntax
 
-This page contains classical Dependency Parsing task as well as less classical once that also relates to Syntax: a Gapping (Ellipsis) resolution.
+This page contains classical **Dependency Parsing** task as well as less classical once that also relates to **Syntax**: a **Gapping (Ellipsis) resolution**.
 
 ## Dependency parcing
 The task of extracting a dependency parse of a sentence that represents its grammatical structure and defines binary grammatical relations between the words: heads and dependents.
