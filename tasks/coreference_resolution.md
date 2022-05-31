@@ -1,4 +1,4 @@
-# Dependency parcing & Syntax
+# Coreference resolution
 
 Coreference resolution is the task of clustering mentions in text that refer to the same underlying real world entities.
 
